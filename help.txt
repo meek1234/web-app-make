@@ -1,0 +1,12 @@
+﻿<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <body>    
+      수정:수정하고싶은 글의 ID를 적은뒤 수정
+      작성자는 수정하기 불가능
+      삭제:삭제하고싶은 글의 ID를 적은뒤 삭제
+      ID :글 URL을 확인해보자
+    </body>
+</html>
